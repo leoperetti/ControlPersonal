@@ -1,0 +1,24 @@
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\DataBase.mdf
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\DataBase_log.ldf
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\Datos.dll.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\Datos.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\Datos.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\EntityFramework.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\EntityFramework.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\obj\Release\Datos.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\obj\Release\Datos.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\DataBase.mdf
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\DataBase_log.ldf
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\Datos.dll.config
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\Datos.dll
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\Datos.pdb
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\EntityFramework.dll
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\EntityFramework.xml
+C:\Users\Leo\Desktop\Control\Datos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Leo\Desktop\Control\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Control\Datos\obj\Release\Datos.dll
+C:\Users\Leo\Desktop\Control\Datos\obj\Release\Datos.pdb

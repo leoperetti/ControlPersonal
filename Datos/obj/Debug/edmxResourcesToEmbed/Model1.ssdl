@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataBaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Comercios">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="descripcion" Type="varchar" MaxLength="50" />
+    <Property Name="habilitado" Type="tinyint" />
+  </EntityType>
+  <EntityType Name="Gastos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cantidadDinero" Type="float" Nullable="false" />
+    <Property Name="cantidadProductos" Type="int" />
+    <Property Name="fechaGasto" Type="datetime" Nullable="false" />
+    <Property Name="tipoComercioFK" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ingresos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ingreso" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fechaIngreso" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_Gastos_ToTable">
+    <End Role="Comercios" Type="Self.Comercios" Multiplicity="1" />
+    <End Role="Gastos" Type="Self.Gastos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Comercios">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Gastos">
+        <PropertyRef Name="tipoComercioFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DataBaseModelStoreContainer">
+    <EntitySet Name="Comercios" EntityType="Self.Comercios" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Gastos" EntityType="Self.Gastos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ingresos" EntityType="Self.Ingresos" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Gastos_ToTable" Association="Self.FK_Gastos_ToTable">
+      <End Role="Comercios" EntitySet="Comercios" />
+      <End Role="Gastos" EntitySet="Gastos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

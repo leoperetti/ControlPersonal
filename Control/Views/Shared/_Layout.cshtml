@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - App Control</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/Custom/menuLateral.css" rel="stylesheet" />
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/select2.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-3.1.0.min.js"></script>
+    <script src="~/scripts/bootstrap.min.js"></script>
+    <script src="~/scripts/modernizr-2.8.3.js"></script>
+    <script src="~/scripts/Custom/menuLateral.js"></script>
+    <script src="~/scripts/jquery-ui-1.12.0.min.js"></script>
+    <script src="~/scripts/Custom/gastos.js"></script>
+    <script src="~/scripts/select2.min.js"></script>
+    <script src="~/scripts/notify.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                   
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="side-menu">
+                <!-- Main Menu -->
+                <div class="side-menu-container">
+                    <ul class="nav navbar-nav">
+                        <li class="active">@Html.ActionLink("Gastos", "Index", "Gastos", null, new { @class = "glyphicon glyphicon-minus" })</li>
+                        <li class="active">@Html.ActionLink("Ingresos", "Index", "Ingresos", null, new { @class = "glyphicon glyphicon-minus" })</li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->    
+
+        </div>
+
+        <!-- Main Content -->
+        <div class="container-fluid">
+            <div class="side-body"> 
+                @RenderBody()
+                <hr />
+                <footer>
+                    <p>&copy; @DateTime.Now.Year - Leonardo Gabriel Peretti Application</p>
+                </footer>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

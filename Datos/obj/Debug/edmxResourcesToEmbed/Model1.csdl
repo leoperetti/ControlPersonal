@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Comercio">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="habilitado" Type="Byte" />
+    <NavigationProperty Name="Gastos" Relationship="Self.FK_Gastos_ToTable" FromRole="Comercios" ToRole="Gastos" />
+  </EntityType>
+  <EntityType Name="Gasto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cantidadDinero" Type="Double" Nullable="false" />
+    <Property Name="cantidadProductos" Type="Int32" />
+    <Property Name="fechaGasto" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="tipoComercioFK" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Comercio" Relationship="Self.FK_Gastos_ToTable" FromRole="Gastos" ToRole="Comercios" />
+  </EntityType>
+  <EntityType Name="Ingreso">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ingreso1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fechaIngreso" Type="DateTime" Precision="3" />
+  </EntityType>
+  <Association Name="FK_Gastos_ToTable">
+    <End Role="Comercios" Type="Self.Comercio" Multiplicity="1" />
+    <End Role="Gastos" Type="Self.Gasto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Comercios">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Gastos">
+        <PropertyRef Name="tipoComercioFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LPContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Comercios" EntityType="Self.Comercio" />
+    <EntitySet Name="Gastos" EntityType="Self.Gasto" />
+    <EntitySet Name="Ingresos" EntityType="Self.Ingreso" />
+    <AssociationSet Name="FK_Gastos_ToTable" Association="Self.FK_Gastos_ToTable">
+      <End Role="Comercios" EntitySet="Comercios" />
+      <End Role="Gastos" EntitySet="Gastos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

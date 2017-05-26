@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataBaseModelStoreContainer" CdmEntityContainer="LPContext">
+    <EntitySetMapping Name="Comercios">
+      <EntityTypeMapping TypeName="DataBaseModel.Comercio">
+        <MappingFragment StoreEntitySet="Comercios">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="habilitado" ColumnName="habilitado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gastos">
+      <EntityTypeMapping TypeName="DataBaseModel.Gasto">
+        <MappingFragment StoreEntitySet="Gastos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="cantidadDinero" ColumnName="cantidadDinero" />
+          <ScalarProperty Name="cantidadProductos" ColumnName="cantidadProductos" />
+          <ScalarProperty Name="fechaGasto" ColumnName="fechaGasto" />
+          <ScalarProperty Name="tipoComercioFK" ColumnName="tipoComercioFK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ingresos">
+      <EntityTypeMapping TypeName="DataBaseModel.Ingreso">
+        <MappingFragment StoreEntitySet="Ingresos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ingreso1" ColumnName="ingreso" />
+          <ScalarProperty Name="fechaIngreso" ColumnName="fechaIngreso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,148 @@
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\ApplicationInsights.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\csc.exe
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\csc.exe.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\csc.rsp
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\csi.exe
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\csi.rsp
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\System.AppContext.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\vbc.exe
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\vbc.exe.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\vbc.rsp
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\DataBase.mdf
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\DataBase_log.ldf
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Control.dll.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Control.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Control.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Datos.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\EntityFramework.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\EntityFramework.SqlServer.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.Web.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Helpers.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Mvc.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Razor.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Webpages.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Webpages.Razor.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Datos.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\EntityFramework.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\EntityFramework.SqlServer.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.Web.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Razor.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Webpages.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Webpages.Razor.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Helpers.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\System.Web.Mvc.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\es\System.Web.Razor.resources.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\obj\Release\ControlPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\obj\Release\Control.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\Control\Control\obj\Release\Control.pdb
+C:\Users\Leo\Desktop\Control\Control\bin\ApplicationInsights.config
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\csc.exe
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\csc.exe.config
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\csc.rsp
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\csi.exe
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\csi.rsp
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\System.AppContext.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\vbc.exe
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\vbc.exe.config
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\vbc.rsp
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leo\Desktop\Control\Control\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leo\Desktop\Control\Control\bin\DataBase.mdf
+C:\Users\Leo\Desktop\Control\Control\bin\DataBase_log.ldf
+C:\Users\Leo\Desktop\Control\Control\bin\Control.dll.config
+C:\Users\Leo\Desktop\Control\Control\bin\Control.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Control.pdb
+C:\Users\Leo\Desktop\Control\Control\bin\Datos.dll
+C:\Users\Leo\Desktop\Control\Control\bin\EntityFramework.dll
+C:\Users\Leo\Desktop\Control\Control\bin\EntityFramework.SqlServer.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.Web.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Helpers.dll
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Mvc.dll
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Razor.dll
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Webpages.dll
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Webpages.Razor.dll
+C:\Users\Leo\Desktop\Control\Control\bin\Datos.pdb
+C:\Users\Leo\Desktop\Control\Control\bin\EntityFramework.xml
+C:\Users\Leo\Desktop\Control\Control\bin\EntityFramework.SqlServer.xml
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.Web.xml
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Leo\Desktop\Control\Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Razor.xml
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Webpages.xml
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Webpages.Razor.xml
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Helpers.xml
+C:\Users\Leo\Desktop\Control\Control\bin\System.Web.Mvc.xml
+C:\Users\Leo\Desktop\Control\Control\bin\es\System.Web.Razor.resources.dll
+C:\Users\Leo\Desktop\Control\Control\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Leo\Desktop\Control\Control\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Leo\Desktop\Control\Control\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Leo\Desktop\Control\Control\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Leo\Desktop\Control\Control\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Leo\Desktop\Control\Control\obj\Release\ControlPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Control\Control\obj\Release\Control.dll
+C:\Users\Leo\Desktop\Control\Control\obj\Release\Control.pdb
